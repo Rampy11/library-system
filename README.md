@@ -9,15 +9,17 @@ A web-based Library Management System developed for BSIT 3E CC-106. This applica
 - **Database**: MySQL
 
 ## 📁 Project Structure
-library-system/
-├── assets/ # Static assets like images, CSS, and JavaScript files
-├── config/ # Configuration files (e.g., database connection)
-├── database/ # SQL scripts for database setup
-├── includes/ # Reusable PHP components (e.g., headers, footers)
-├── pages/ # Main PHP pages for different functionalities
-├── scripts/ # JavaScript scripts for dynamic behaviors
-├── index.php # Entry point of the application
-└── README.md # Project documentation
+
+library-system/  
+   • assets/        # Static assets like images, CSS, and JavaScript files  
+   • config/        # Configuration files (e.g., database connection)  
+   • database/      # SQL scripts for database setup  
+   • includes/      # Reusable PHP components (e.g., headers, footers)  
+   • pages/         # Main PHP pages for different functionalities  
+   • scripts/       # JavaScript scripts for dynamic behaviors  
+   • index.php      # Entry point of the application  
+   • LICENSE        # Licensing information defining terms of use and distribution  
+   • README.md      # Project documentation  
 
 
 ## 🚀 Installation and Setup

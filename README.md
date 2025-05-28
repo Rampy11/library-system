@@ -91,9 +91,4 @@ library-system/
 
      ## 📬 Contact
 
-     Developed by:
-     • John Steven A. Macapañas
-     • Charles V. Abaigar
-     • Cathylyn J. Abueva
-     • Charles Glenn D. Avila
-     • Leo A. Gabrino
+     Developed by: John Steven A. Macapañas | Charles V. Abaigar | Cathylyn J. Abueva | Charles Glenn D. Avila | Leo A. Gabrino
